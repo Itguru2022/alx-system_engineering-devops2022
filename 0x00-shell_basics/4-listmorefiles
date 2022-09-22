@@ -1,2 +1,2 @@
-H!/bin/bash
-echo "$(ls la)"
+#!/bin/bash
+echo "$(ls -la)"
